@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #85586F;
+}
+
+.container{
+    width: 700px;
+    border-radius: 4px;
+    border: 1px solid #85586F ;
+    background: white;
+    padding: 30px;
+}
+
+.form-group{
+    margin: 5px;
+}
+label, h1{
+    color: #855858;
+    font-family: 'Roboto Condensed', sans-serif;
+}
